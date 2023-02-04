@@ -1,0 +1,23 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    width: 100%;
+    height: 100vh;
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    width: 350px;
+    display: flex;
+    border: 5px solid black;
+    justify-content: space-around;
+}
+.txt{
+    font-size: 40px;
+} */
